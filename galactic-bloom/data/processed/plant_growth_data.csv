@@ -1,0 +1,10 @@
+"Species ID","Growth Stage","Time (days)","Biomass (g)","Leaf Area (cm^2)","Root Depth (cm)","Stem Diameter (mm)","Flower Count","Fruit Count"
+"EXO-001","Seedling",0,0.1,10,5,1,0,0
+"EXO-001","Seedling",7,0.5,50,10,2,0,0
+"EXO-001","Sapling",14,2.1,150,20,5,0,0
+"EXO-001","Mature",28,10.5,500,50,10,5,10
+"EXO-002","Seedling",0,0.2,20,10,2,0,0
+"EXO-002","Seedling",7,1.1,100,20,5,0,0
+"EXO-002","Sapling",14,5.5,300,40,10,0,0
+"EXO-002","Mature",28,25.1,1000,80,20,10,20
+...
