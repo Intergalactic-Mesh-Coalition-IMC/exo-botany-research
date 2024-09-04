@@ -1,0 +1,10 @@
+"Planet ID","Time (days)","Temperature (°C)","Light Intensity (μmol/m^2s)","Water Availability (mm)","CO2 Concentration (ppm)","O2 Concentration (%)","Nutrient Availability (NPK)"
+"Xylophia-IV",0,20,500,50,400,20,10-10-10
+"Xylophia-IV",7,22,600,60,420,22,12-12-12
+"Xylophia-IV",14,25,700,70,450,25,15-15-15
+"Xylophia-IV",28,28,800,80,480,28,18-18-18
+"Nebulon-III",0,15,300,30,350,15,8-8-8
+"Nebulon-III",7,18,400,40,380,18,10-10-10
+"Nebulon-III",14,22,500,50,410,22,12-12-12
+"Nebulon-III",28,25,600,60,440,25,15-15-15
+...
