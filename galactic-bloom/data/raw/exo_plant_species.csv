@@ -1,0 +1,7 @@
+"Species ID","Species Name","Planet of Origin","Growth Habit","Light Requirement","Water Requirement","Temperature Tolerance","Soil Type","Nutrient Requirements"
+"EXO-001","Xylophia Luxurians","Xylophia-IV","Vines","High","Moderate","20-30°C","Loamy","NPK: 10-10-10"
+"EXO-002","Nebulon Ferro","Nebulon-III","Trees","Medium","Low","15-25°C","Sandy","NPK: 5-5-5"
+"EXO-003","Aurora Floralis","Aurora-II","Flowers","Low","High","10-20°C","Clayey","NPK: 20-20-20"
+"EXO-004","Terra Firma","Terra-Prime","Grasses","Medium","Moderate","25-35°C","Silty","NPK: 15-15-15"
+"EXO-005","Stellaluna Spectra","Stellaluna-I","Mosses","Low","Low","5-15°C","Peaty","NPK: 5-10-5"
+...
