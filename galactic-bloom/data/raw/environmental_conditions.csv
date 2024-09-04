@@ -1,0 +1,7 @@
+"Planet ID","Planet Name","Atmospheric Composition","Temperature Range","Light Intensity","Water Availability","Soil Type","Nutrient Availability"
+"Xylophia-IV","Xylophia-IV","O2: 20%, N2: 70%, CO2: 10%","15-30°C","High","Moderate","Loamy","NPK: 10-10-10"
+"Nebulon-III","Nebulon-III","O2: 15%, N2: 80%, CO2: 5%","10-25°C","Medium","Low","Sandy","NPK: 5-5-5"
+"Aurora-II","Aurora-II","O2: 30%, N2: 60%, CO2: 10%","5-20°C","Low","High","Clayey","NPK: 20-20-20"
+"Terra-Prime","Terra-Prime","O2: 25%, N2: 70%, CO2: 5%","20-35°C","Medium","Moderate","Silty","NPK: 15-15-15"
+"Stellaluna-I","Stellaluna-I","O2: 10%, N2: 85%, CO2: 5%","0-15°C","Low","Low","Peaty","NPK: 5-10-5"
+...
